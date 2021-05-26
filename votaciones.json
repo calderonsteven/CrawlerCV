@@ -1,0 +1,3774 @@
+[
+    {
+        "mes_dia": "May 17",
+        "ano": "2018",
+        "desacuerdo": "6%",
+        "procedimiento": "Aprobación de los artículos 3°, 5°, 6°, 8°, 10, 11, 13, 15, 16, 17, 20, 21, 24, 27, 33, 35, 36, 39, 48, 49, 50, 51, 56, 58, 64, 69, ...",
+        "comisiones": "Comisión Primera de Cámara de Representantes, Comisión Primera de Senado",
+        "acuerdo": "94%",
+        "estado": "aprobado",
+        "id": 13974,
+        "camaras": "Cámara de Representantes, Senado",
+        "votos": [
+            {
+                "votante": "Hernan Francisco Andrade Serrano",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Alberto Baena Lopez",
+                "partido": "MIRA",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julián  Bedoya Pulgarín ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Armando Alberto Benedetti Villaneda",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar Fernando Bravo Realpe",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Edilberto Caicedo Sastoque",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alejandro Carlos Chacón Camargo",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Arturo Correa Mojica",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Elbert Díaz Lozano",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Manuel Mesias Enriquez Rosero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roberto Victor Gerlein Echeverria",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Harry Giovanny González García",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Abraham Jiménez López",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alexánder López Maya",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Angélica Lozano Correa",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Norbey Marulanda Muñoz",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jhon Eduardo Molina Figueroa",
+                "partido": "Movimiento Político Cien por Ciento por Colombia",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Germán  Navas Talero",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Hernan Penagos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Pedrito Tomás Pereira Caballero",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Miguel Ángel Pinto Hernández",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Heriberto Sanabria Astudillo ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Óscar Hernán Sánchez León",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Albeiro  Vanegas Osorio ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Doris Clemencia  Vega Quiroz ",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alvaro Hernan  Prada Artunduaga",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Edward David Rodríguez Rodríguez",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Rodrigo Lara Restrepo",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Alfredo Rangel Suarez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Santiago Valencia González",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "José Obdulio   Gaviria Vélez ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Samuel Alejandro Hoyos Mejia",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "María Fernanda Cabal Molina",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Telesforo Pedraza Ortega",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Juan Carlos García Gómez",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Humphrey Roa Sarmiento",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Clara Leticia Rojas Gonzalez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Jose Neftali Santos Ramirez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Andres Felipe Villamizar Ortiz",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Carlos Edward Osorio Aguiar",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Bérner León Zambrano Eraso",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Dec 13",
+        "ano": "2016",
+        "desacuerdo": "0%",
+        "procedimiento": "Aprobación en bloque de los artículos: 1°, 3°, 5°, 7°, 8°, 9°, 10, 12, 13, 14, 15, 17, 18, 19, 20, 21, 23, 25, 26, 27, 28, 30, 32, 33, ...",
+        "comisiones": "Comisión Primera de Cámara de Representantes, Comisión Primera de Senado",
+        "acuerdo": "100%",
+        "estado": "aprobado",
+        "id": 14007,
+        "camaras": "",
+        "votos": [
+            {
+                "votante": "Hernan Francisco Andrade Serrano",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julián  Bedoya Pulgarín ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar Fernando Bravo Realpe",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "María Fernanda Cabal Molina",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Fernando de la Peña Marquez",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Elbert Díaz Lozano",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Manuel Mesias Enriquez Rosero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Carlos García Gómez",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roberto Victor Gerlein Echeverria",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Samuel Alejandro Hoyos Mejia",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Abraham Jiménez López",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alexánder López Maya",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Norbey Marulanda Muñoz",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jhon Eduardo Molina Figueroa",
+                "partido": "Movimiento Político Cien por Ciento por Colombia",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Viviane Aleyda Morales Hoyos",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Germán  Navas Talero",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Telesforo Pedraza Ortega",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Hernan Penagos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Pedrito Tomás Pereira Caballero",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alvaro Hernan  Prada Artunduaga",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alfredo Rangel Suarez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Edward David Rodríguez Rodríguez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Clara Leticia Rojas Gonzalez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Enrique Rozo Rodriguez",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Heriberto Sanabria Astudillo ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Óscar Hernán Sánchez León",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jose Neftali Santos Ramirez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Santiago Valencia González",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Paloma Susana  Valencia Laserna",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Albeiro  Vanegas Osorio ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Doris Clemencia  Vega Quiroz ",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Angélica Lozano Correa",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Rodrigo Lara Restrepo",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Jaime Alejandro Amin Hernandez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "José Obdulio   Gaviria Vélez ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Humphrey Roa Sarmiento",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Miguel Ángel Pinto Hernández",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Silvio José Carrasquilla Torres",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Andres Felipe Villamizar Ortiz",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Bérner León Zambrano Eraso",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Arturo Correa Mojica",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Nov 30",
+        "ano": "2016",
+        "desacuerdo": "0%",
+        "procedimiento": "Aprobación de actas número 16, 17, 18, 19, 20 y 21, Legislatura 2016-2017.",
+        "comisiones": "Comisión Séptima de Senado",
+        "acuerdo": "0%",
+        "estado": "aprobado",
+        "id": 14185,
+        "camaras": "Senado",
+        "votos": [],
+        "abstenciones": []
+    },
+    {
+        "mes_dia": "Oct 04",
+        "ano": "2016",
+        "desacuerdo": "16%",
+        "procedimiento": "Aprobación de la proposición modificativa al artículo 20 presentado por las Senadoras Arleth Patricia Casado de López y Olga Lucía Suárez Mira, al Proyecto de ley número 189 de 2016 ...",
+        "comisiones": "",
+        "acuerdo": "84%",
+        "estado": "aprobado",
+        "id": 13712,
+        "camaras": "Senado",
+        "votos": [
+            {
+                "votante": "Laureano Augusto Acuña Díaz",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nerthink Mauricio Aguilar Hurtado",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Javier Tato Álvarez Montenegro",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Miguel  Amín Escaf",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Evelis     Andrade Casama   ",
+                "partido": "MAIS - Movimiento Alternativo Indígena y Social",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alvaro Antonio Ashton Giraldo",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nadia Georgette  Blel Scaff ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Angel Custodio  Cabrera Baez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Arleth Patricia Casado de Lopez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Efraín José Cepeda Sarabia",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio Jose Correa Jimenez",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Manuel Corzo Román",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Andrés  Cristo Bustos ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Javier Mauricio  Delgado Martinez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Edinson Delgado Ruiz",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Fernando Duque Garcia",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Bernardo Miguel  Elias Vidal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Mario Alberto Fernández Alcocer",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nora María García Burgos",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Guillermo García Realpe",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Teresita Garcia Romero",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Andrés  García Zuccardi",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Alfredo Gnecco Zuleta",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Diego Gómez Jiménez",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio del Cristo Guerra de la Espriella",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julio Miguel  Guerra Sotto ",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Darío Hoyos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Rosmery Martinez Rosales ",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Samy Merheg Marún",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Manuel Guillermo Mora Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José David Name Cardozo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nidia Marcela Osorio Salgado",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Ivan  Ospina Gomez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Myriam Alicia Paredes Aguirre",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Yamina del Carmen  Pestana Rojas ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Eduardo Enrique  Pulgar Daza ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Carlos Restrepo Escobar",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Guillermo Antonio Santos Marin",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Emilio Sierra Grajales",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Olga Lucia Suarez Mira",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Sandra Elena Villadiego Villadiego",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Armando Alberto Benedetti Villaneda",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ivan  Duque Márquez ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Oscar Mauricio  Lizcano Arango",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Felipe   Mejía Mejía  ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Antonio Jose  Navarro Wolff  ",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Paloma Susana  Valencia Laserna",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Thania Vega de Plazas",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": []
+    },
+    {
+        "mes_dia": "Oct 04",
+        "ano": "2016",
+        "desacuerdo": "66%",
+        "procedimiento": "Aprobación de la proposición sustitutiva presentada por el Senador Antonio José Navarro Wolff, al artículo 20 al Proyecto de ley número 189 de 2016 Senado, 152 de 2015 Cámara",
+        "comisiones": "",
+        "acuerdo": "34%",
+        "estado": "no-aprobado",
+        "id": 14101,
+        "camaras": "Senado",
+        "votos": [
+            {
+                "votante": "Laureano Augusto Acuña Díaz",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nerthink Mauricio Aguilar Hurtado",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Miguel  Amín Escaf",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Evelis     Andrade Casama   ",
+                "partido": "MAIS - Movimiento Alternativo Indígena y Social",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Armando Alberto Benedetti Villaneda",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Angel Custodio  Cabrera Baez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio Jose Correa Jimenez",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Teresita Garcia Romero",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Andrés  García Zuccardi",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Alfredo Gnecco Zuleta",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julio Miguel  Guerra Sotto ",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Darío Hoyos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar Mauricio  Lizcano Arango",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José David Name Cardozo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Iván Leonidas Name Vásquez",
+                "partido": "Partido Verde ",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio Jose  Navarro Wolff  ",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Ivan  Ospina Gomez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alvaro Antonio Ashton Giraldo",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Daniel Alberto   Cabrales Castillo ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Arleth Patricia Casado de Lopez",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Efraín José Cepeda Sarabia",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jimmy Chamorro Cruz",
+                "partido": "Compromiso Cívico Cristiano - C4",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Manuel Corzo Román",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Javier Mauricio  Delgado Martinez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Edinson Delgado Ruiz",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luis Fernando Duque Garcia",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ivan  Duque Márquez ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Bernardo Miguel  Elias Vidal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Mario Alberto Fernández Alcocer",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Daira de Jesús Galvis Méndez",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nora María García Burgos",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Guillermo García Realpe",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Sofia Alejandra  Gaviria Correa ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Diego Gómez Jiménez",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Antonio del Cristo Guerra de la Espriella",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Rosmery Martinez Rosales ",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Felipe   Mejía Mejía  ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Samy Merheg Marún",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Manuel Guillermo Mora Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nidia Marcela Osorio Salgado",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Myriam Alicia Paredes Aguirre",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jorge Hernando Pedraza Gutierrez",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Yamina del Carmen  Pestana Rojas ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Eduardo Enrique  Pulgar Daza ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Alfredo  Ramos Maya ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Carlos Restrepo Escobar",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Guillermo Antonio Santos Marin",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luis Emilio Sierra Grajales",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Olga Lucia Suarez Mira",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luis Fernando Velasco Cháves",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Sandra Elena Villadiego Villadiego",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Jorge Elieser Prieto Riveros",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Marco Anibal Avirama Avirama",
+                "partido": "ASI - Alianza Social Independiente"
+            },
+            {
+                "votante": "Carlos Fernando  Galan Pachon ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Bernabe Celis Carrillo",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Arturo Char Chaljub ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Paloma Susana  Valencia Laserna",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Everth Bustamante Garcia",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Orlando  Castañeda Serrano ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Álvaro Uribe Velez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Susana Correa Borrero",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Jaime Alejandro Amin Hernandez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Paola Andrea  Holguín Moreno",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Ernesto  Macías Tovar ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alfredo Rangel Suarez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Leon Rigoberto Baron Neira",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Thania Vega de Plazas",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Fernando Nicolás  Araújo Rumié ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "José Obdulio   Gaviria Vélez ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "María del Rosario  Guerra de la Espriella ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Honorio Miguel   Henríquez Pinedo ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Nohora Stella   Tovar Rey ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Hernan Francisco Andrade Serrano",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Nadia Georgette  Blel Scaff ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Roberto Victor Gerlein Echeverria",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Jorge Enrique Robledo Castillo",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Rodrigo Villalba Mosquera",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Andrés  Cristo Bustos ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Jaime Enrique Durán Barrera",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Lidio Arturo  García Turbay",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Viviane Aleyda Morales Hoyos",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Javier Tato Álvarez Montenegro",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Maritza Martínez Aristizábal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Manuel Mesias Enriquez Rosero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Musa Abraham Besaile Fayad",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Milton Arlex Rodriguez Sarmiento",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Enrique Soto Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Alexánder López Maya",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Senen Niño Avendaño",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Jesús Alberto Castilla Salazar",
+                "partido": "PDA - Polo Democrático Alternativo"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Dec 16",
+        "ano": "2015",
+        "desacuerdo": "80%",
+        "procedimiento": "Aprobación de los impedimentos presentados por los Representantes Norbey Marulanda, Raymundo Méndez y Eduardo Crissien, para participar en la discusión y votación del Proyecto de Ley número 20 del 2015 ...",
+        "comisiones": "",
+        "acuerdo": "20%",
+        "estado": "no-aprobado",
+        "id": 13526,
+        "camaras": "Cámara de Representantes",
+        "votos": [
+            {
+                "votante": "Oscar Fernando Bravo Realpe",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jairo Enrique  Castiblanco Parra ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nancy Denise Castillo Garcia",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Orlando Alfonso Clavijo Clavijo",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Elda Lucy  Contento Sanz ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Victor Javier Correa Velez",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Eduardo Diazgranados Torres",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Atilano Alonso Giraldo Arboleda",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Kelyn Johana   González Duarte ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luciano   Grisales Londoño  ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Sandra Liliana  Ortiz Nova ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar  Ospina Quintero ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Diego Patiño Amariles",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Sara Elena  Piedrahita Lyons ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio Restrepo Salazar",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Clara Leticia Rojas Gonzalez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jaime Enrique Serrano Perez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Camilo  Abril Tarache ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jair Arango Torres",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Julián  Bedoya Pulgarín ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Bayardo Gilberto  Betancourt Pérez",
+                "partido": "Opción Ciudadana",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Germán Alcides Blanco Álvarez",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Julio Bonilla Soto",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Guillermina Bravo Montaño",
+                "partido": "MIRA",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "María Fernanda Cabal Molina",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Tatiana Cabello Florez",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "José Edilberto Caicedo Sastoque",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "German Bernardo Carlosama Lopez",
+                "partido": "AICO - Autoridades Indígenas de Colombia",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Wilmer Ramiro  Carrillo Mendoza ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Alejandro Carlos Chacón Camargo",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nilton  Córdoba Manyoma ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Wilson Córdoba Mena",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Neftali Correa Diaz ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Alberto Cuenca Chaux",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Alberto  Cuero Valencia ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Marta Cecilia  Curi Osorio ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Alfredo Rafael Deluque Zuleta",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Marcos Yohan Diaz Barrera",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Elbert Díaz Lozano",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Eduardo Agaton Diazgranados Abadia",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Antenor Duran Carrillo",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nicolás Albeiro Echeverry Alvarán ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ángel María  Gaitán Pulido ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Julio Eugenio Gallardo Archbold",
+                "partido": "MIR - Movimiento de Integración Regional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Pierre Eugenio   Garcia Jacquier ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Hugo Hernan  Gonzalez Medina ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nicolas Daniel Guerrero Montaño",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Eduardo Guevara Villabón",
+                "partido": "MIRA",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "José Elver \"Choco\" Hernández Casas ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Federico Eduardo Hoyos Salazar  ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ines Cecilia  Lopez Florez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Alvaro  Lopez Gil ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Franklin del Cristo  Lozano de la Ossa ",
+                "partido": "Opción Ciudadana",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jose Carlos  Mizger Pacheco",
+                "partido": "Opción Ciudadana",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Rubén Darío Molano Piñeros ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Alfredo Guillermo Molina Triana",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luz Adriana   Moreno Marmolejo  ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jorge Muñoz Zapata",
+                "partido": "MIRA",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Moises  Orozco Vicuña ",
+                "partido": "Funeco - Fundación Ébano de Colombia",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Rafael Eduardo  Palau Salazar ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Hernan Penagos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Flora Perdomo Andrade",
+                "partido": "Por un Huila Mejor",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "José Luis   Pérez Oyuela ",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Oscar Darío  Pérez Pineda ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Miguel Ángel Pinto Hernández",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Esperanza   Pinzon de Jimenez",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Eloy Chichi   Quintero Romero ",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ciro Alejandro  Ramírez Cortés",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Margarita María Restrepo Arango",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Carlos  Rivera Peña ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ciro Antonio  Rodríguez Pinzón ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Edward David Rodríguez Rodríguez",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Mauricio  Salazar Pelaez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Heriberto Sanabria Astudillo ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Óscar Hernán Sánchez León",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Fernando  Sierra Ramos ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Leopoldo  Suarez Melo ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Eduardo Jose \"Joche\" Tous de la Ossa ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Maria Eugenia   Triana Vargas  ",
+                "partido": "Opción Ciudadana",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Alirio  Uribe Muñoz ",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Angelo Antonio Villamil Benavides",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Arturo Yepes Alzate",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Bérner León Zambrano Eraso",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Gloria Betty Zorro Africano",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Maria Regina Zuluaga Henao",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Angélica Lozano Correa",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Inti Raúl  Asprilla Reyes ",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Edgar Alexander Cipriano Moreno",
+                "partido": "ASI - Alianza Social Independiente"
+            },
+            {
+                "votante": "Fabián Gerardo   Castillo Suárez ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Carlos Abraham Jiménez López",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Rodrigo Lara Restrepo",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Hernando Jose Padaui Alvarez",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Jorge Enrique Rozo Rodriguez",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Jose Ignacio Mesa Betancur",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Karen Violette  Cure Corcione ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Ciro Fernández Núñez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alvaro Hernan  Prada Artunduaga",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Samuel Alejandro Hoyos Mejia",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Ángela María Robledo Gómez",
+                "partido": "Partido Verde "
+            },
+            {
+                "votante": "Armando Antonio Zabaraín D'arce",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Orlando Anibal  Guerra de la Rosa",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Miguel Ángel  Barreto Castillo ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Humphrey Roa Sarmiento",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Luis Fernando  Urrego Carvajal ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Diela Liliana Benavides Solarte",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Pedrito Tomás Pereira Caballero",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Luis Horacio Gallón Arango",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Jaime Felipe  Lozada Polanco ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Juan Carlos García Gómez",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "David Alejandro Barguil Assis",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Lina Maria Barrera Rueda",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Telesforo Pedraza Ortega",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Alvaro Gustavo Rosado Aragon",
+                "partido": "Todos Somos Colombia (Antes Fundación Ébano de Colombia Funeco)"
+            },
+            {
+                "votante": "Edgar Alfonso  Gómez Román",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Fabio Raúl  Amín Saleme",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Fabio Alonso  Arroyave Botero ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Eduar Luis  Benjumea Moreno ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Silvio José Carrasquilla Torres",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Mario Alberto  Castaño Pérez ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Mauricio  Gómez Amín",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Iván Darío Agudelo Zapata",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Harry Giovanny González García",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Jack Housni Jaller",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Oscar de Jesus Hurtado Perez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Norbey Marulanda Muñoz",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Pedro Jesus  Orjuela Gomez ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Crisanto Pisso Mazabuel",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Marco Sergio  Rodriguez Merchan ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "John Jairo Roldán Avendaño",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Rafael Romero Piñeros",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Jose Neftali Santos Ramirez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Hernan  Sinisterra Valencia ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Olga Lucia Velasquez Nieto",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Argenis  Velasquez Ramirez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Andres Felipe Villamizar Ortiz",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Candelaria Patricia  Rojas Vergara",
+                "partido": "Opción Ciudadana"
+            },
+            {
+                "votante": "Rafael   Elizalde Gomez  ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Alonso José del Río Cabarcas ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Eduardo Alfonso Crissien Borrero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Didier Burgos Ramirez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Albeiro  Vanegas Osorio ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Jaime Buenahora Febres",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Arturo Correa Mojica",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "John Jairo Cárdenas Morán",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Jaime Armando Yepes Martínez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Raymundo Elias Mendez Bechara",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Christian José Moreno Villamizar ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Jose Bernardo Florez Asprilla",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Leon Dario Ramirez Valencia",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Jorge Eliécer  Tamayo Marulanda ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Martha Patricia  Villalba Hodwalker ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Nery  Oros Ortiz ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Edward Osorio Aguiar",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Hector  Javier Osorio Botello",
+                "partido": "Unidad Liberal"
+            },
+            {
+                "votante": "Juan Felipe Lemos Uribe",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Alexander  Garcia Rodriguez ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Germán  Navas Talero",
+                "partido": "PDA - Polo Democrático Alternativo"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Dec 16",
+        "ano": "2015",
+        "desacuerdo": "1%",
+        "procedimiento": "Aprobación de la proposición positiva con que termina el informe de ponencia del Proyecto de Ley número 20 de 2015 Cámara.",
+        "comisiones": "",
+        "acuerdo": "99%",
+        "estado": "aprobado",
+        "id": 13527,
+        "camaras": "Cámara de Representantes",
+        "votos": [
+            {
+                "votante": "Jorge Camilo  Abril Tarache ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Iván Darío Agudelo Zapata",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jair Arango Torres",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julián  Bedoya Pulgarín ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Bayardo Gilberto  Betancourt Pérez",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Alcides Blanco Álvarez",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Julio Bonilla Soto",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Guillermina Bravo Montaño",
+                "partido": "MIRA",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar Fernando Bravo Realpe",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "María Fernanda Cabal Molina",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Tatiana Cabello Florez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Edilberto Caicedo Sastoque",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "German Bernardo Carlosama Lopez",
+                "partido": "AICO - Autoridades Indígenas de Colombia",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Wilmer Ramiro  Carrillo Mendoza ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jairo Enrique  Castiblanco Parra ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nancy Denise Castillo Garcia",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Fabián Gerardo   Castillo Suárez ",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Orlando Alfonso Clavijo Clavijo",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Elda Lucy  Contento Sanz ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nilton  Córdoba Manyoma ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Wilson Córdoba Mena",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Alberto Cuenca Chaux",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Alberto  Cuero Valencia ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Marta Cecilia  Curi Osorio ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alfredo Rafael Deluque Zuleta",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Marcos Yohan Diaz Barrera",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Eduardo Diazgranados Torres",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Elbert Díaz Lozano",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Eduardo Agaton Diazgranados Abadia",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antenor Duran Carrillo",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nicolás Albeiro Echeverry Alvarán ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Rafael   Elizalde Gomez  ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jose Bernardo Florez Asprilla",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Ángel María  Gaitán Pulido ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julio Eugenio Gallardo Archbold",
+                "partido": "MIR - Movimiento de Integración Regional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Pierre Eugenio   Garcia Jacquier ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Atilano Alonso Giraldo Arboleda",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Edgar Alfonso  Gómez Román",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Kelyn Johana   González Duarte ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Harry Giovanny González García",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Hugo Hernan  Gonzalez Medina ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luciano   Grisales Londoño  ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nicolas Daniel Guerrero Montaño",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Eduardo Guevara Villabón",
+                "partido": "MIRA",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Federico Eduardo Hoyos Salazar  ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Felipe Lemos Uribe",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alvaro  Lopez Gil ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Franklin del Cristo  Lozano de la Ossa ",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jose Carlos  Mizger Pacheco",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Rubén Darío Molano Piñeros ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alfredo Guillermo Molina Triana",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luz Adriana   Moreno Marmolejo  ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Muñoz Zapata",
+                "partido": "MIRA",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Moises  Orozco Vicuña ",
+                "partido": "Funeco - Fundación Ébano de Colombia",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Sandra Liliana  Ortiz Nova ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar  Ospina Quintero ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Rafael Eduardo  Palau Salazar ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Diego Patiño Amariles",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Hernan Penagos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Pedrito Tomás Pereira Caballero",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Luis   Pérez Oyuela ",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar Darío  Pérez Pineda ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Sara Elena  Piedrahita Lyons ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Miguel Ángel Pinto Hernández",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Esperanza   Pinzon de Jimenez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Eloy Chichi   Quintero Romero ",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Ciro Alejandro  Ramírez Cortés",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Margarita María Restrepo Arango",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio Restrepo Salazar",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Carlos  Rivera Peña ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Ángela María Robledo Gómez",
+                "partido": "Partido Verde ",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Ciro Antonio  Rodríguez Pinzón ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Edward David Rodríguez Rodríguez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Clara Leticia Rojas Gonzalez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Rafael Romero Piñeros",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Mauricio  Salazar Pelaez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Heriberto Sanabria Astudillo ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Óscar Hernán Sánchez León",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jaime Enrique Serrano Perez",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Fernando  Sierra Ramos ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Leopoldo  Suarez Melo ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Eduardo Jose \"Joche\" Tous de la Ossa ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Maria Eugenia   Triana Vargas  ",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alirio  Uribe Muñoz ",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Angelo Antonio Villamil Benavides",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Armando Antonio Zabaraín D'arce",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Bérner León Zambrano Eraso",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Maria Regina Zuluaga Henao",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "John Jairo Cárdenas Morán",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Inti Raúl  Asprilla Reyes ",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Angélica Lozano Correa",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Edgar Alexander Cipriano Moreno",
+                "partido": "ASI - Alianza Social Independiente"
+            },
+            {
+                "votante": "Ciro Fernández Núñez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Karen Violette  Cure Corcione ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Gloria Betty Zorro Africano",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Carlos Abraham Jiménez López",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Rodrigo Lara Restrepo",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Jorge Enrique Rozo Rodriguez",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Hernando Jose Padaui Alvarez",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Jose Ignacio Mesa Betancur",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Samuel Alejandro Hoyos Mejia",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alvaro Hernan  Prada Artunduaga",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Luis Fernando  Urrego Carvajal ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "David Alejandro Barguil Assis",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Lina Maria Barrera Rueda",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Miguel Ángel  Barreto Castillo ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Diela Liliana Benavides Solarte",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Luis Horacio Gallón Arango",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Juan Carlos García Gómez",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Orlando Anibal  Guerra de la Rosa",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "José Elver \"Choco\" Hernández Casas ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Ines Cecilia  Lopez Florez ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Jaime Felipe  Lozada Polanco ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Telesforo Pedraza Ortega",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Humphrey Roa Sarmiento",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Arturo Yepes Alzate",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Alvaro Gustavo Rosado Aragon",
+                "partido": "Todos Somos Colombia (Antes Fundación Ébano de Colombia Funeco)"
+            },
+            {
+                "votante": "Oscar de Jesus Hurtado Perez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Neftali Correa Diaz ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Alejandro Carlos Chacón Camargo",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Jack Housni Jaller",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Andres Felipe Villamizar Ortiz",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Mario Alberto  Castaño Pérez ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Norbey Marulanda Muñoz",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Silvio José Carrasquilla Torres",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Pedro Jesus  Orjuela Gomez ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Fabio Alonso  Arroyave Botero ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Flora Perdomo Andrade",
+                "partido": "Por un Huila Mejor"
+            },
+            {
+                "votante": "Crisanto Pisso Mazabuel",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Marco Sergio  Rodriguez Merchan ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "John Jairo Roldán Avendaño",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Eduar Luis  Benjumea Moreno ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Jose Neftali Santos Ramirez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Hernan  Sinisterra Valencia ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Fabio Raúl  Amín Saleme",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Mauricio  Gómez Amín",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Olga Lucia Velasquez Nieto",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Argenis  Velasquez Ramirez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Candelaria Patricia  Rojas Vergara",
+                "partido": "Opción Ciudadana"
+            },
+            {
+                "votante": "Jaime Armando Yepes Martínez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Martha Patricia  Villalba Hodwalker ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Eduardo Alfonso Crissien Borrero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Alonso José del Río Cabarcas ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Raymundo Elias Mendez Bechara",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Arturo Correa Mojica",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Christian José Moreno Villamizar ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Leon Dario Ramirez Valencia",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Jorge Eliécer  Tamayo Marulanda ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Jaime Buenahora Febres",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Nery  Oros Ortiz ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Edward Osorio Aguiar",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Hector  Javier Osorio Botello",
+                "partido": "Unidad Liberal"
+            },
+            {
+                "votante": "Didier Burgos Ramirez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Alexander  Garcia Rodriguez ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Albeiro  Vanegas Osorio ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Germán  Navas Talero",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Victor Javier Correa Velez",
+                "partido": "PDA - Polo Democrático Alternativo"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Dec 15",
+        "ano": "2015",
+        "desacuerdo": "80%",
+        "procedimiento": "Aprobación de los impedimentos presentados por los Senadores Milton Arlex Rodríguez Sarmiento, Paola Andrea Holguín Moreno y Daniel Alberto Cabrales Castillo para participar en la discusión y votación del Proyecto ...",
+        "comisiones": "",
+        "acuerdo": "20%",
+        "estado": "no-aprobado",
+        "id": 13543,
+        "camaras": "Senado",
+        "votos": [
+            {
+                "votante": "Luis Evelis     Andrade Casama   ",
+                "partido": "MAIS - Movimiento Alternativo Indígena y Social",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jesús Alberto Castilla Salazar",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jimmy Chamorro Cruz",
+                "partido": "Compromiso Cívico Cristiano - C4",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Fernando  Galan Pachon ",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Teresita Garcia Romero",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio del Cristo Guerra de la Espriella",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alexánder López Maya",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Senen Niño Avendaño",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Ivan  Ospina Gomez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Elieser Prieto Riveros",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Enrique Robledo Castillo",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Enrique Soto Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Laureano Augusto Acuña Díaz",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nerthink Mauricio Aguilar Hurtado",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Miguel  Amín Escaf",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jaime Alejandro Amin Hernandez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Hernan Francisco Andrade Serrano",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Leon Rigoberto Baron Neira",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Armando Alberto Benedetti Villaneda",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nadia Georgette  Blel Scaff ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Everth Bustamante Garcia",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Angel Custodio  Cabrera Baez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Bernabe Celis Carrillo",
+                "partido": "Cambio Radical",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Efraín José Cepeda Sarabia",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Susana Correa Borrero",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Juan Manuel Corzo Román",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Javier Mauricio  Delgado Martinez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Edinson Delgado Ruiz",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luis Fernando Duque Garcia",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jaime Enrique Durán Barrera",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Manuel Mesias Enriquez Rosero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Nora María García Burgos",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Guillermo García Realpe",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Sofia Alejandra  Gaviria Correa ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "José Obdulio   Gaviria Vélez ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Roberto Victor Gerlein Echeverria",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "José Alfredo Gnecco Zuleta",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "María del Rosario  Guerra de la Espriella ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Honorio Miguel   Henríquez Pinedo ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Oscar Mauricio  Lizcano Arango",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Ernesto  Macías Tovar ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Carlos Felipe   Mejía Mejía  ",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Manuel Guillermo Mora Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Martin Emilio Morales Diz",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Viviane Aleyda Morales Hoyos",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "José David Name Cardozo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Myriam Alicia Paredes Aguirre",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luis Emilio Sierra Grajales",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Olga Lucia Suarez Mira",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Fernando Eustacio Tamayo Tamayo",
+                "partido": "Conservador Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Álvaro Uribe Velez",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Thania Vega de Plazas",
+                "partido": "Centro Democrático",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Doris Clemencia  Vega Quiroz ",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Luis Fernando Velasco Cháves",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Sandra Elena Villadiego Villadiego",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Rodrigo Villalba Mosquera",
+                "partido": "Liberal Colombiano",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Iván Leonidas Name Vásquez",
+                "partido": "Partido Verde "
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Antonio Jose  Navarro Wolff  ",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Marco Anibal Avirama Avirama",
+                "partido": "ASI - Alianza Social Independiente"
+            },
+            {
+                "votante": "Arturo Char Chaljub ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Rosmery Martinez Rosales ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Daira de Jesús Galvis Méndez",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Juan Carlos Restrepo Escobar",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Paola Andrea  Holguín Moreno",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Fernando Nicolás  Araújo Rumié ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Daniel Alberto   Cabrales Castillo ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Ivan  Duque Márquez ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alfredo  Ramos Maya ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alfredo Rangel Suarez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Nohora Stella   Tovar Rey ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Paloma Susana  Valencia Laserna",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Juan Diego Gómez Jiménez",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Juan Samy Merheg Marún",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Nidia Marcela Osorio Salgado",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Jorge Hernando Pedraza Gutierrez",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Yamina del Carmen  Pestana Rojas ",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Guillermo Antonio Santos Marin",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Alvaro Antonio Ashton Giraldo",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Arleth Patricia Casado de Lopez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Lidio Arturo  García Turbay",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Javier Tato Álvarez Montenegro",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Andrés  Cristo Bustos ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Mario Alberto Fernández Alcocer",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Julio Miguel  Guerra Sotto ",
+                "partido": "Opción Ciudadana"
+            },
+            {
+                "votante": "Antonio Jose Correa Jimenez",
+                "partido": "Opción Ciudadana"
+            },
+            {
+                "votante": "Bernardo Miguel  Elias Vidal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Musa Abraham Besaile Fayad",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Andrés  García Zuccardi",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Eduardo Enrique  Pulgar Daza ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Germán Darío Hoyos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Maritza Martínez Aristizábal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Dec 15",
+        "ano": "2015",
+        "desacuerdo": "3%",
+        "procedimiento": "Aprobación de los artículos al artículo 6 y 20 del Proyecto de Ley número 174 de 2015 Senado, 223 de 2015 Cámara.",
+        "comisiones": "",
+        "acuerdo": "97%",
+        "estado": "aprobado",
+        "id": 13572,
+        "camaras": "Senado",
+        "votos": [
+            {
+                "votante": "Nerthink Mauricio Aguilar Hurtado",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Miguel  Amín Escaf",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Hernan Francisco Andrade Serrano",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Fernando Nicolás  Araújo Rumié ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alvaro Antonio Ashton Giraldo",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Leon Rigoberto Baron Neira",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nadia Georgette  Blel Scaff ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Everth Bustamante Garcia",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Bernabe Celis Carrillo",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Efraín José Cepeda Sarabia",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jimmy Chamorro Cruz",
+                "partido": "Compromiso Cívico Cristiano - C4",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Manuel Corzo Román",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Andrés  Cristo Bustos ",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Javier Mauricio  Delgado Martinez ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Edinson Delgado Ruiz",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jaime Enrique Durán Barrera",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Bernardo Miguel  Elias Vidal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Manuel Mesias Enriquez Rosero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Mario Alberto Fernández Alcocer",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Daira de Jesús Galvis Méndez",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nora María García Burgos",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Teresita Garcia Romero",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Lidio Arturo  García Turbay",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Andrés  García Zuccardi",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Obdulio   Gaviria Vélez ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roberto Victor Gerlein Echeverria",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Alfredo Gnecco Zuleta",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Diego Gómez Jiménez",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Antonio del Cristo Guerra de la Espriella",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Julio Miguel  Guerra Sotto ",
+                "partido": "Opción Ciudadana",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Honorio Miguel   Henríquez Pinedo ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Paola Andrea  Holguín Moreno",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Darío Hoyos Giraldo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Oscar Mauricio  Lizcano Arango",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Ernesto  Macías Tovar ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Rosmery Martinez Rosales ",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Felipe   Mejía Mejía  ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Manuel Guillermo Mora Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Martin Emilio Morales Diz",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Iván Leonidas Name Vásquez",
+                "partido": "Partido Verde ",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nidia Marcela Osorio Salgado",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Myriam Alicia Paredes Aguirre",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jorge Hernando Pedraza Gutierrez",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Yamina del Carmen  Pestana Rojas ",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Eduardo Enrique  Pulgar Daza ",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Guillermo Antonio Santos Marin",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Emilio Sierra Grajales",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Olga Lucia Suarez Mira",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Fernando Eustacio Tamayo Tamayo",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Nohora Stella   Tovar Rey ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Álvaro Uribe Velez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Thania Vega de Plazas",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Luis Fernando Velasco Cháves",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Sandra Elena Villadiego Villadiego",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Jesús Alberto Castilla Salazar",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Rechazado"
+            },
+            {
+                "votante": "Jorge Enrique Robledo Castillo",
+                "partido": "PDA - Polo Democrático Alternativo",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Antonio Jose  Navarro Wolff  ",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Jorge Elieser Prieto Riveros",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Jorge Ivan  Ospina Gomez ",
+                "partido": "Alianza Verde"
+            },
+            {
+                "votante": "Marco Anibal Avirama Avirama",
+                "partido": "ASI - Alianza Social Independiente"
+            },
+            {
+                "votante": "Carlos Fernando  Galan Pachon ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Arturo Char Chaljub ",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Juan Carlos Restrepo Escobar",
+                "partido": "Cambio Radical"
+            },
+            {
+                "votante": "Jaime Alejandro Amin Hernandez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "María del Rosario  Guerra de la Espriella ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Daniel Alberto   Cabrales Castillo ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alfredo Rangel Suarez",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Paloma Susana  Valencia Laserna",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Alfredo  Ramos Maya ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Susana Correa Borrero",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Ivan  Duque Márquez ",
+                "partido": "Centro Democrático"
+            },
+            {
+                "votante": "Laureano Augusto Acuña Díaz",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Juan Samy Merheg Marún",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Rodrigo Villalba Mosquera",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Javier Tato Álvarez Montenegro",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Arleth Patricia Casado de Lopez",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Luis Fernando Duque Garcia",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Guillermo García Realpe",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Sofia Alejandra  Gaviria Correa ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Viviane Aleyda Morales Hoyos",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Luis Evelis     Andrade Casama   ",
+                "partido": "MAIS - Movimiento Alternativo Indígena y Social"
+            },
+            {
+                "votante": "Antonio Jose Correa Jimenez",
+                "partido": "Opción Ciudadana"
+            },
+            {
+                "votante": "Doris Clemencia  Vega Quiroz ",
+                "partido": "PIN - Partido de Integración Nacional"
+            },
+            {
+                "votante": "José David Name Cardozo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Armando Alberto Benedetti Villaneda",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Maritza Martínez Aristizábal",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Angel Custodio  Cabrera Baez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Musa Abraham Besaile Fayad",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Carlos Enrique Soto Jaramillo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Iván Cepeda Castro",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Alexánder López Maya",
+                "partido": "PDA - Polo Democrático Alternativo"
+            },
+            {
+                "votante": "Senen Niño Avendaño",
+                "partido": "PDA - Polo Democrático Alternativo"
+            }
+        ]
+    },
+    {
+        "mes_dia": "Nov 24",
+        "ano": "2015",
+        "desacuerdo": "7%",
+        "procedimiento": "Aprobación de proposición modificativa al inciso 3 del artículo 33 suscrita por los SenadoresViviane Morales Hoyos, Alexánder López Maya, Paloma Valencia Laserna, Alfredo Rangel Suárez, Carlos Fernando Motoa, Jaime Amín ...",
+        "comisiones": "Comisión Primera de Senado",
+        "acuerdo": "93%",
+        "estado": "aprobado",
+        "id": 13243,
+        "camaras": "",
+        "votos": [
+            {
+                "votante": "Jaime Alejandro Amin Hernandez",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Hernan Francisco Andrade Serrano",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Manuel Mesias Enriquez Rosero",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Juan Manuel Galan Pachon",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "José Obdulio   Gaviria Vélez ",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roberto Victor Gerlein Echeverria",
+                "partido": "Conservador Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Claudia Nayibe  Lopez Hernandez ",
+                "partido": "Alianza Verde",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Viviane Aleyda Morales Hoyos",
+                "partido": "Liberal Colombiano",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Carlos Fernando Motoa Solarte",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Alfredo Rangel Suarez",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Roosvelt Rodríguez Rengifo",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Paloma Susana  Valencia Laserna",
+                "partido": "Centro Democrático",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Germán Varón Cotrino",
+                "partido": "Cambio Radical",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Doris Clemencia  Vega Quiroz ",
+                "partido": "PIN - Partido de Integración Nacional",
+                "voto": "Aprobado"
+            },
+            {
+                "votante": "Armando Alberto Benedetti Villaneda",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional",
+                "voto": "Rechazado"
+            }
+        ],
+        "abstenciones": [
+            {
+                "votante": "Carlos Eduardo Enríquez Maya",
+                "partido": "Conservador Colombiano"
+            },
+            {
+                "votante": "Horacio  Serpa Uribe ",
+                "partido": "Liberal Colombiano"
+            },
+            {
+                "votante": "Roy Leonardo Barreras Montealegre",
+                "partido": "Partido de la U - Partido Social de Unidad Nacional"
+            },
+            {
+                "votante": "Alexánder López Maya",
+                "partido": "PDA - Polo Democrático Alternativo"
+            }
+        ]
+    }
+]

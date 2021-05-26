@@ -1,0 +1,11 @@
+{
+  "name": "crawlercv",
+  "homepage": "https://github.com/calderonsteven/CrawlerCV#readme",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^9.1.1"
+  }
+}
